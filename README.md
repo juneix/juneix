@@ -1,4 +1,4 @@
-### 👋 Hi, I'm juneix
+### 👋 Hi, I'm Juneix
 
 **Digital Hobbyist & Tech Tinkerer**
 
