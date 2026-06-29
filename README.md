@@ -10,7 +10,7 @@
 **🚀 Projects**
 
  - **[EmbyX](https://github.com/juneix/EmbyX)**: A TikTok-style web app for browsing your Emby/Jellyfin library.
- - **[KanDo](https://github.com/juneix/KanDo)**: Lightweight web tools: To-do, Kanban and Tomato Clock.
+ - **[nasave-dl](https://github.com/juneix/nasave-dl)**: One-click to NAS, Save it all.
 
 **☕️ Support**
 
